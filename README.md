@@ -209,6 +209,10 @@ POST /api/train                → trigger model retraining (background)
 | What-If Lab | `/whatif` | Slider simulator with probability delta |
 | Model Insights | `/model` | Metrics table, ROC curve, confusion matrix, feature importance |
 | AI Strategy Console | `/strategy` | Segment builder + executive AI strategy generator |
+<img width="757" height="642" alt="Screenshot 2026-04-20 at 13 48 52" src="https://github.com/user-attachments/assets/658440b8-988f-490f-af16-5a3ddde7d708" />
+<img width="757" height="642" alt="Screenshot 2026-04-20 at 13 49 49" src="https://github.com/user-attachments/assets/3ffb8ec0-db02-4437-89db-9aa48539e14b" />
+
+
 
 ---
 
