@@ -1,0 +1,122 @@
+[
+  {
+    "feature": "AcceptedCampaignsTotal",
+    "importance": 0.156296
+  },
+  {
+    "feature": "Marital_Status_Single",
+    "importance": 0.110254
+  },
+  {
+    "feature": "Marital_Status_Married",
+    "importance": 0.063879
+  },
+  {
+    "feature": "Marital_Status_Together",
+    "importance": 0.047085
+  },
+  {
+    "feature": "Education_PhD",
+    "importance": 0.043869
+  },
+  {
+    "feature": "Recency",
+    "importance": 0.041249
+  },
+  {
+    "feature": "Customer_Tenure_Days",
+    "importance": 0.038447
+  },
+  {
+    "feature": "NumWebVisitsMonth",
+    "importance": 0.038402
+  },
+  {
+    "feature": "Children",
+    "importance": 0.033325
+  },
+  {
+    "feature": "NumCatalogPurchases",
+    "importance": 0.033304
+  },
+  {
+    "feature": "Marital_Status_Divorced",
+    "importance": 0.031973
+  },
+  {
+    "feature": "NumStorePurchases",
+    "importance": 0.030385
+  },
+  {
+    "feature": "Marital_Status_Alone",
+    "importance": 0.028957
+  },
+  {
+    "feature": "Education_2n Cycle",
+    "importance": 0.02359
+  },
+  {
+    "feature": "MntMeatProducts",
+    "importance": 0.023182
+  },
+  {
+    "feature": "NumDealsPurchases",
+    "importance": 0.022819
+  },
+  {
+    "feature": "Education_Graduation",
+    "importance": 0.021358
+  },
+  {
+    "feature": "MntFruits",
+    "importance": 0.020573
+  },
+  {
+    "feature": "Total_Spent",
+    "importance": 0.02022
+  },
+  {
+    "feature": "Avg_Spend_Per_Purchase",
+    "importance": 0.017981
+  },
+  {
+    "feature": "Education_Master",
+    "importance": 0.017374
+  },
+  {
+    "feature": "Education_Basic",
+    "importance": 0.015715
+  },
+  {
+    "feature": "Income",
+    "importance": 0.015711
+  },
+  {
+    "feature": "Web_Purchase_Pct",
+    "importance": 0.015472
+  },
+  {
+    "feature": "MntWines",
+    "importance": 0.013277
+  },
+  {
+    "feature": "Total_Purchases",
+    "importance": 0.013258
+  },
+  {
+    "feature": "MntGoldProds",
+    "importance": 0.011401
+  },
+  {
+    "feature": "NumWebPurchases",
+    "importance": 0.011206
+  },
+  {
+    "feature": "MntSweetProducts",
+    "importance": 0.011163
+  },
+  {
+    "feature": "Marital_Status_Widow",
+    "importance": 0.010855
+  }
+]
